@@ -53,7 +53,7 @@ body{
     transition: .3s;
     
 }
-.preview_page{
+.preview_page_content{
     position: relative;
 }
 .bodybilder{
@@ -87,14 +87,12 @@ body{
         width: 80%;
     }
     .logo span{
-        font-size: 28px;
+        font-size: 26px;
     }
     .logo img{
         width: 70px;
     }
-    .preview_page_content .description{
-        text-align: right;
-    }
+  
     .preview_page_content .description p{
         font-size: 15px;
         line-height: 40px;
